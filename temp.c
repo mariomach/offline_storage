@@ -210,7 +210,7 @@ int main(void)
     frequencyCheck(5,5,table);
 
    // printf("full time is: %d:%d:%d\n", myTime->tm_hour, myTime->tm_min, myTime->tm_sec);  
-   printf("Git Comment Test");
+   // printf("Git Comment Test");
 
     return 0;
     
